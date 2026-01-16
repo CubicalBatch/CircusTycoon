@@ -8,6 +8,10 @@ Each city has different audiences with unique preferences. Balance your ticket p
 
 Can you build a renowned circus, manage your budget, and become the greatest showman before the 30-week season ends?
 
+Play it in your browser here: https://www.lexaloffle.com/bbs/?tid=148241
+
+Or download the p8.png and load it in your pico8 emulator.
+
 ## HOW TO GET STARTED
 
 **Controls:** Use arrow keys to navigate menus and ❎/🅾️ buttons to select/cancel.
